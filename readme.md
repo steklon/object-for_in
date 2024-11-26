@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/msglm1u7xvtbrg01?svg=true)](https://ci.appveyor.com/project/steklon/object-for-in)
